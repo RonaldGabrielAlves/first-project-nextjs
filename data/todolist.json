@@ -1,0 +1,32 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "task": "Arrumar o quarto"
+        },
+        {
+            "id": 2,
+            "task": "Formatar o pc"
+        },
+        {
+            "id": 3,
+            "task": "Estudar"
+        },
+        {
+            "id": 4,
+            "task": "Agendar aula da autoescola"
+        },
+        {
+            "id": 5,
+            "task": "Enviar currículos"
+        },
+        {
+            "id": 6,
+            "task": "Terminar projeto Next"
+        },
+        {
+            "id": 7,
+            "task": "Colocar projeto Next no Github"
+        }
+    ]
+}
